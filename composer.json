@@ -17,6 +17,6 @@
     "exclude": ["*", "!QuickChart.php", "!README.md", "!composer.json"]
   },
   "autoload": {
-    "psr-4": {"": ""}
+    "psr-4": {"Rktaiwala\\": "/src"}
   }
 }
